@@ -1,0 +1,14 @@
+{
+  "name": "wilrnh-graphicsmagick",
+  "version": "0.1.0",
+  "author": "wilrnh",
+  "summary": "Puppet module that manages the installation and configuration of GraphicsMagick",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wilrnh/puppet-graphicsmagick",
+  "project_page": "https://github.com/wilrnh/puppet-graphicsmagick",
+  "issues_url": "https://github.com/wilrnh/puppet-graphicsmagick/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
